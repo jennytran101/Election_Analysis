@@ -14,13 +14,14 @@ Purpose: Help Tom- the election audit to report the total number of votes case, 
     + Arapahoe: got 24,801 votes which is 6.7%
 
 
-3. County had the largest number of votes: Denver
+3. County had the largest number of votes: Denver.
 
 
 4. The number of votes and the percentage of the total votes each candidate received.
     + Charles Casper Stockham got 85,213 votes which is 23%
     + Diana DeGette got 272,892 votes which is 73.8%
     + Raymon Anthony Doane got 11,606 votes which is 3.1%
+    
 
 
 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
