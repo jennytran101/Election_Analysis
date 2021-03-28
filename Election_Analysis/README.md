@@ -1,8 +1,8 @@
 # Election_Analysis
 Purpose: Help Tom- the election audit to report the total number of votes case, the total vote of each candidate and the percentage vote of each candidate in order to choose the winner of the election based on the popular vote.
 # Election Audit results:
-<<<<<<< HEAD
-- The total number of the votes in this congressional election: 369,711 votes (![Total Votes](Resources/total_votes.png)
+![Total Votes](Resources/total_votes.png
+- The total number of the votes in this congressional election: 369,711 votes 
 
 ![Result](Resources/election_result.png)
 -The number of votes and the percentage of total votes for each county in the precinct:
