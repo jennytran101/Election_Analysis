@@ -17,7 +17,7 @@ Purpose: Help Tom- the election audit to report the total number of votes case, 
 3. County had the largest number of votes: Denver
 
 
-4.The number of votes and the percentage of the total votes each candidate received.
+4. The number of votes and the percentage of the total votes each candidate received.
     + Charles Casper Stockham got 85,213 votes which is 23%
     + Diana DeGette got 272,892 votes which is 73.8%
     + Raymon Anthony Doane got 11,606 votes which is 3.1%
